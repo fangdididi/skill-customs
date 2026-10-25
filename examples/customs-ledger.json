@@ -1,0 +1,18 @@
+{
+  "entries": {
+    "minutes-tidy": {
+      "source": "https://git.example.invalid/acme/minutes-tidy",
+      "rev": "v1.0.0",
+      "verdict": "CLEAR",
+      "tree_sha256": "4f78c719497aa0024e99f0d395a3c40700acc9c2780288bcaf207b1571c68170",
+      "files": {
+        "SKILL.md": "6920ab6cdf3c80a1d38776c121d989c09a577921301b28ba6173b0847051e5c9",
+        "scripts/extract_actions.py": "9b61270fd7991a14f5cf52bdfe40200a1de9ae5407ca2fffc4673e790e1feb13"
+      },
+      "capabilities": [],
+      "declared": [],
+      "flags": [],
+      "waived": []
+    }
+  }
+}
